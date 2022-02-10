@@ -24,7 +24,7 @@
     "ionicons": "^4.6.3",
     "js-cookie": "^2.2.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.0",
     "simple-line-icons": "^2.4.1",
     "v-autocomplete": "^1.8.2",
